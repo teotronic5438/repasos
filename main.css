@@ -1,0 +1,9 @@
+h1 {
+    width: 400px;
+    padding: 10px;
+    border-radius: 5px;
+    color: #FFF;
+    background-color: rgba(243, 10, 10, 0.911);
+    text-align: center;
+    margin: 15px auto;
+}
